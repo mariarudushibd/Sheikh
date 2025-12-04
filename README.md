@@ -1,5 +1,7 @@
 # Sheikh - Autonomous Serious Coding Agent
 
+Sheikh represents a paradigm shift in mobile development - bringing professional-grade development tools to Android devices while making them accessible to non-technical users through AI.
+
 Start generating Anything.Anyone. From idea to full-stack in one conversation 
 Stay local fully with our built-in LLM provider running any model you want. Or leverage enterprise models From idea to live app in minutes. Base44 gives you the tools to launch fully-functional apps - no code, no setup, no hassle.
 
