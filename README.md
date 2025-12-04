@@ -1,21 +1,18 @@
-# Sheikh - Autonomous Serious Coding Agent
-
-Sheikh represents a paradigm shift in mobile development - bringing professional-grade development tools to Android devices while making them accessible to non-technical users through AI.
-
-Start generating Anything.Anyone. From idea to full-stack in one conversation 
-Stay local fully with our built-in LLM provider running any model you want. Or leverage enterprise models From idea to live app in minutes. Base44 gives you the tools to launch fully-functional apps - no code, no setup, no hassle.
 # 🚀 Sheikh - AI Coding Agent in Your Pocket
 
 <div align="center">
 
-**From idea to full-stack in one conversation.**
+**From idea to full-stack in one conversation.Sheikh is an Autonomous Serious Coding Agent **
 
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-*Build and deploy powerful applications using AI. Turn natural language into functional software - no setup, no hassle.*
+*Build and deploy powerful applications using AI. Turn natural language into functional software - no setup, no hassle.Sheikh represents a paradigm shift in mobile development - bringing professional-grade development tools to Android devices while making them accessible to non-technical users through AI.
+
+Start generating Anything.Anyone. From idea to full-stack in one conversation 
+Stay local fully with our built-in LLM provider running any model you want. Or leverage enterprise models From idea to live app in minutes. Base44 gives you the tools to launch fully-functional apps - no code, no setup, no hassle.*
 
 [Get Started](#-quick-start) • [Features](#-features) • [How It Works](#-how-it-works) • [Docs](#-documentation)
 
